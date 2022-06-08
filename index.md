@@ -16,7 +16,7 @@ permalink: /
 
 &emsp;&emsp;关于随笔：我喜欢阅读，也喜欢写作（但是文笔有点拙劣）。  
 
-[写在前面](https://yz14.github.io/docs/front/){: .btn .btn-blue } 
+[写在前面](https://yz14.github.io/docs/front/){: .btn } 
 [心理学](https://yz14.github.io/docs/psy){: .btn .btn-blue } 
 [机器学习](https://yz14.github.io/docs/ml){: .btn .btn-green } 
 [深度学习](https://yz14.github.io/docs/dl){: .btn .btn-purple }
