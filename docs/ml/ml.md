@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: 机器学习
 nav_order: 4
 has_children: true
