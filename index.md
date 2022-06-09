@@ -20,4 +20,5 @@ permalink: /
 [心理学](https://yz14.github.io/docs/psy){: .btn .btn-blue } 
 [机器学习](https://yz14.github.io/docs/ml){: .btn .btn-green } 
 [深度学习](https://yz14.github.io/docs/dl){: .btn .btn-purple }  
+
 手机端可以在**右上角**看到所有目录
