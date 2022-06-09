@@ -81,7 +81,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "返回顶端"
 
-footer_content: "版权 &copy; 2017-2022 袁振 <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"
+footer_content: "版权 &copy; 2017-2022 袁振 <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT许可证.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
