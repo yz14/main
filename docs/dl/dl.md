@@ -3,7 +3,7 @@ layout: home
 title: 深度学习
 nav_order: 5
 has_children: true
-permalink: docs/ml
+permalink: docs/dl
 ---
 
 # 深度学习
