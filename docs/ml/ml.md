@@ -9,8 +9,12 @@ permalink: docs/ml
 # 机器学习
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
-{: .fs-6 .fw-300 }
+&emsp;&emsp;由于在网页上写公式非常麻烦，所以笔记和代码分别以pdf和ipynb上传。
+
+| # | 笔记 | 代码 |
+|:--|:--|:--|
+|矩阵微积分|pdf|ipynb|
+
 
 这是公式：\(x_i, y_i\), \[x_i, y_i\]
 $x_i, y_i$, $$x_i, y_i$$
