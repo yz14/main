@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 主页
+title: 介绍
 nav_order: 1
 description: "YZ's notes."
 permalink: /
