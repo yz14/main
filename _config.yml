@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: YZ
 description: Welcome.
-baseurl: "/main" # the subpath of your site, e.g. /blog
+baseurl: "/page1" # the subpath of your site, e.g. /blog
 url: "https://yz14.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
@@ -92,7 +92,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "编辑"
-gh_edit_repository: "https://github.com/yz14/main" # the github URL for your repo
+gh_edit_repository: "https://github.com/yz14/page1" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
